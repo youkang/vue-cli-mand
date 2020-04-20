@@ -1,6 +1,6 @@
 {
   "name": "vue-cli-mand",
-  "version": "1.0.1",
+  "version": "1.0.5",
   "scripts": {
     "start": "vue-cli-service serve",
     "build": "vue-cli-service build",
@@ -35,5 +35,13 @@
     "postcss-write-svg": "^3.0.1",
     "vue-template-compiler": "^2.6.11"
   },
-  "browserslist": []
+  "browserslist": [],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/youkang/vue-cli-mand.git"
+  },
+  "bugs": {
+    "url": "https://github.com/youkang/vue-cli-mand/issues"
+  },
+  "homepage": "https://github.com/youkang/vue-cli-mand#readme"
 }
